@@ -35,7 +35,6 @@ In this lab, we will discover how to apply decision trees to regression and clas
 
 [Starter Code](./code/starter-code/starter-code-1_2.ipynb)
 
->[Solution Code](./code/solution-code/solution-code-1_2.ipynb)
 
 ## Additional resources
 
